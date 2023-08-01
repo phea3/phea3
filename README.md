@@ -1,5 +1,9 @@
 # Phea
-- Hi there 🖐, my name is Luon Sokphea.
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+- Hi my name is Luon Sokphea.
 - Now I am working as the software developer at a technology company in my local for 1 and a half year.
 - I'm currently working and learning swiftui with help from youtube.com.
 
