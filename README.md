@@ -7,7 +7,10 @@
   <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="400"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
+   <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
