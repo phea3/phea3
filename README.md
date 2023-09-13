@@ -20,7 +20,7 @@
   
 - :clown_face: In my career I was an internship frontend for 3 months. I was an internship mobile for 3 months. and I am a full-time mobile developer for building app on ios platform.
   
-- :cry: I'm currently working and learning swiftui with help from youtube.com.
+- :cry: I'm currently working and learning swiftui with help from youtube.com, udemy.com.
 
 - :zzz: In my free time I learn new languages for android platform app and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> building my own API, I am exploring about UX/UI, :collision: Computer Hardwares, Networking and Graphic Design.
 
