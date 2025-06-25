@@ -14,17 +14,17 @@
 
 - :nerd_face: Hi my name is Luon Sokphea.
 
-- :partying_face: I am 23 in 2023.
+- :partying_face: I am 23 in 2023. (25 now)
   
-- :robot: Now I am working as a Software Engineer at a technology company in my local for 1 and a half year.
+- :robot: Now I am working as a Software Engineer at a technology company in my local for 1 and a half year. (I left my previous job after 2 years, now work for 3 different companies for 2 years.)
   
-- :clown_face: In my career I was an internship frontend for 3 months. I was an internship mobile for 3 months. and I am a full-time mobile developer for building app on ios platform.
+- :clown_face: In my career I was an internship frontend for 3 months. I was an internship mobile for 3 months. and I am a full-time mobile developer for building app on ios platform. (later transitioned to web development)
   
-- :cry: I'm currently working and learning swiftui with help from youtube.com, udemy.com.
+- :cry: I'm currently working and learning swiftui with help from youtube.com, udemy.com. (I graduated from university recently and still learn from online courses)
 
-- :zzz: In my free time I learn new languages for android platform app and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> building my own API, I am exploring about UX/UI, :collision: Computer Hardwares, Networking and Graphic Design.
+- :zzz: In my free time I learn new languages for android platform app and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> building my own API, I am exploring about UX/UI, :collision: Computer Hardwares, Networking and Graphic Design. (focus on Next.js and Drizzle for 2 years.)
 
-- :heart_eyes_cat: I have a strong interested with the Computer Science.
+- :heart_eyes_cat: I have a strong interested with the Computer Science. (still the same)
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](your-linkedin-url)
   
